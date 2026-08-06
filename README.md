@@ -13,5 +13,13 @@ Computer Networks & Data Communications Student
 <p align="center">
 Network • Linux • Docker • Cyber Security • AI
 </p>
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,react,laravel,nodejs" />
+</p>
 ---
