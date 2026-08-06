@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋 I'm Phan Tri Tam
+</h1>
 
-<!--
-**Tri-Tam4705/Tri-Tam4705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Networks & Data Communications Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Network • Linux • Docker • Cyber Security • AI
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🎓 Third-year Computer Networks & Data Communications Student.
+
+🌱 I am currently learning:
+
+- Linux
+- Docker
+- Python
+- Cisco Networking
+- Network Security
+- AI Intrusion Detection System
+
+🎯 Career Goal
+
+Become a Network Engineer and Cyber Security Engineer.
+
+---
