@@ -8,7 +8,7 @@ Interested in **Network Engineering, Network Administration, IT Infrastructure, 
 
 ## About Me
 
-Third-year student specializing in Computer Networks & Data Communications.
+Final-year student specializing in Computer Networks & Data Communications.
 
 Currently building practical skills in networking, Linux administration, infrastructure, and network security through hands-on labs and projects.
 
