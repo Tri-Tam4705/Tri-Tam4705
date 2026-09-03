@@ -1,45 +1,45 @@
 # Phan Tri Tam
 
-**Computer Networks & Data Communications Student**
+**Final-year Computer Networks & Data Communications Student**
 
-Interested in **Network Engineering, Network Administration, IT Infrastructure, and Cybersecurity**.
+Aspiring **Network Engineer** with a strong interest in **Network Administration, IT Infrastructure, and Cybersecurity**.
 
 ---
 
-## About Me
+## About
 
-Final-year student specializing in Computer Networks & Data Communications.
+Final-year student specializing in **Computer Networks & Data Communications**.
 
-Currently building practical skills in networking, Linux administration, infrastructure, and network security through hands-on labs and projects.
+Building practical experience through networking labs, system administration, network security, and cybersecurity projects.
 
-**Career Goal:** Network Engineer → Network Security / Cybersecurity
+**Career Focus:** Network Engineering → Network Security
 
 ---
 
 ## Technical Skills
 
-### Networking
+**Networking**
 
-* TCP/IP, OSI Model
-* VLAN, Trunking, Inter-VLAN Routing
-* STP, EtherChannel
-* OSPF, EIGRP
-* NAT/PAT, DHCP, ACL
-* GRE, IPsec VPN
-* PPP, PAP, CHAP
+* TCP/IP · OSI Model
+* VLAN · Trunking · Inter-VLAN Routing
+* STP · EtherChannel
+* OSPF · EIGRP
+* NAT/PAT · DHCP · ACL
+* GRE · IPsec VPN
+* PPP · PAP · CHAP
 * Network Troubleshooting
 
-### Network & System
+**Systems & Infrastructure**
 
-* Cisco Packet Tracer
-* GNS3
 * Linux
 * VMware
 * Docker
-* Git / GitHub
 * WSL
+* Cisco Packet Tracer
+* GNS3
+* Git / GitHub
 
-### Programming
+**Programming**
 
 * Python
 * Java
@@ -47,15 +47,14 @@ Currently building practical skills in networking, Linux administration, infrast
 * SQL
 * Bash
 
-### Security & AI
+**Security & AI**
 
 * Network Security
 * Intrusion Detection Systems (IDS)
 * Network Traffic Analysis
 * Machine Learning
 * Ensemble Learning
-* SHAP
-* LIME
+* SHAP · LIME
 
 ---
 
@@ -70,34 +69,40 @@ Currently building practical skills in networking, Linux administration, infrast
 
 ---
 
+## Certifications
+
+| Certification                                          | Year |
+| ------------------------------------------------------ | ---: |
+| **CCNA: Enterprise Networking, Security & Automation** | 2025 |
+| **Agile Development & Scrum Framework**                | 2025 |
+| **Aptis English Proficiency – B1**                     | 2025 |
+
+---
+
 ## Career Interests
+
+**Primary**
 
 * Network Engineer
 * Network Administrator
 * Network Support
+
+**Related**
+
+* IT Infrastructure
 * IT Support / Helpdesk
-* Cybersecurity
-* SOC / Blue Team
 * Network Security
-
----
-
-## Certifications
-
-* **CCNA: Enterprise Networking, Security & Automation (2025)**
-* **Agile Development & Scrum Framework**
-* **Aptis English Proficiency – B1**
+* SOC / Blue Team
+* Cybersecurity
 
 ---
 
 ## Contact
 
 **Email:** [tritam199999@gmail.com](mailto:tritam199999@gmail.com)
-
 **GitHub:** https://github.com/Tri-Tam4705
-
 **LinkedIn:** https://www.linkedin.com/in/tamtriphan/
 
 ---
 
-*Open to internship opportunities in Networking, IT Infrastructure, IT Support, and Cybersecurity.*
+**Open to internship opportunities in Networking, IT Infrastructure, and Cybersecurity.**
