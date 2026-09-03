@@ -8,9 +8,9 @@ Interested in **Network Engineering, Network Administration, IT Infrastructure, 
 
 ## About Me
 
-Final-year student specializing in Computer Networks & Data Communications.
+Third-year student specializing in Computer Networks & Data Communications.
 
-Currently focusing on building practical skills in networking, Linux administration, infrastructure, and network security through hands-on labs and projects.
+Currently building practical skills in networking, Linux administration, infrastructure, and network security through hands-on labs and projects.
 
 **Career Goal:** Network Engineer → Network Security / Cybersecurity
 
@@ -28,9 +28,8 @@ Currently focusing on building practical skills in networking, Linux administrat
 * GRE, IPsec VPN
 * PPP, PAP, CHAP
 * Network Troubleshooting
-* Wireshark
 
-### Network & System Tools
+### Network & System
 
 * Cisco Packet Tracer
 * GNS3
@@ -62,7 +61,7 @@ Currently focusing on building practical skills in networking, Linux administrat
 
 ## Currently Learning
 
-* Advanced Network Administration
+* Network Administration
 * Linux Server Administration
 * Network Security
 * SOC / Blue Team Fundamentals
@@ -85,7 +84,9 @@ Currently focusing on building practical skills in networking, Linux administrat
 
 ## Certifications
 
-**Learning Goals:** CCNA · CompTIA Security+ · RHCSA · AWS Cloud Practitioner
+* **CCNA: Enterprise Networking, Security & Automation (2025)**
+* **Agile Development & Scrum Framework**
+* **Aptis English Proficiency – B1**
 
 ---
 
@@ -95,7 +96,7 @@ Currently focusing on building practical skills in networking, Linux administrat
 
 **GitHub:** https://github.com/Tri-Tam4705
 
-**LinkedIn:** Add your LinkedIn profile
+**LinkedIn:** https://www.linkedin.com/in/tamtriphan/
 
 ---
 
